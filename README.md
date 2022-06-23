@@ -2,7 +2,7 @@
 
 #### I am a Java Web Full-Stack Developer.
 
- #### Ferramentas e tecnologias :
+ #### Tools and Frameworks :
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" height="40px"/> <img 
 src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="40px" height="40px"/> <img 
@@ -14,7 +14,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
 src="https://static.cdnlogo.com/logos/b/74/bootstrap-5.svg" width="40px" height="40px"/>
 
   
-  #### Contato:
+  #### Contact:
 
 <div >
 <a href="https://www.linkedin.com/in/widiney-interaminense/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>   
