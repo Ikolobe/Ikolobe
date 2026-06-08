@@ -37,6 +37,6 @@ I am a Front-End Developer with over 4 years of experience building scalable web
 ## 📫 Let's Connect
 
 **Location:** Brasília, Federal District, Brazil
-***Email:** widiney.henrique@gmail.com [cite: 3]
+***Email:** widiney.henrique@gmail.com
 ***LinkedIn:** [widiney-interaminense](https://linkedin.com/in/widiney-interaminense)
 ***Portfolio:** [github.com/lkolobe](https://github.com/lkolobe)
