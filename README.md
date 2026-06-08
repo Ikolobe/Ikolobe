@@ -1,21 +1,42 @@
-### Hi, My name is Widiney Henrique ! 
+# Hi there, I'm Widiney Henrique Interaminense!👋
 
-#### I am a Java Web Full-Stack Developer.
+###👨‍💻 Front-End Angular Developer
 
- #### Tools and Frameworks :
+I am a Front-End Developer with over 4 years of experience building scalable web applications. I focus on creating robust, user-focused solutions, applying clean architecture and reactive programming.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" height="40px"/> <img 
-src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="40px" height="40px"/> <img 
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" width="40px" height="40px"/><img src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" width="40px" height="40px"/><img 
-src="https://seeklogo.com/images/A/angular-logo-B76B1CDE98-seeklogo.com.png" width="40px" height="40px"/> <img 
-src="https://static.cdnlogo.com/logos/j/69/javascript.svg" width="40px" height="40px"/> <img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" height="40px"/> <img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" height="40px"/> <img
-src="https://static.cdnlogo.com/logos/b/74/bootstrap-5.svg" width="40px" height="40px"/>
+---
 
-  
-  #### Contact:
+## 🚀 About Me
 
-<div >
-<a href="https://www.linkedin.com/in/widiney-interaminense/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>   
-</div>
+* I am currently working as a Front-End Developer at Revizia.
+* My core expertise revolves around the Angular ecosystem, from legacy systems to modern standards (including Angular 10-14, and current explorations into Angular 21 migrations and Signal-based reactivity).
+* I have strong experience consuming RESTful APIs and managing complex data flows with RxJS. ]
+* I am an advocate for SOLID principles, automated testing (Karma, Jasmine, Cypress), and clean code. 
+* I hold a Bachelor of Technology (BTech) in Systems Analysis and Development from Universidade Cruzeiro do Sul.
+* I am a native Portuguese speaker and have advanced (C1) English proficiency.
+
+---
+
+## 🛠️ Tech Stack
+
+***Core:** Angular Framework, TypeScript, JavaScript, HTML, CSS, Bootstrap
+***Architecture & Data:** RxJS, Microservices, RESTful APIs, JWT Authentication
+***Testing:** Cypress (E2E), Karma, Jasmine 
+***Tools & Agile:** Git (GitLab, Bitbucket), Jira, CI/CD Pipelines, Scrum
+
+---
+
+## 🌌 Beyond the Code
+
+* When I'm not writing code, I love diving into retro gaming emulation, configuring software like Cemu, and exploring handheld consoles.
+* I enjoy hands-on DIY technical maintenance around the house and on the ranch, from electrical grounding setups to fixing mechanical devices.
+* I have a deep fascination for theoretical physics, astronomy, and discussions around quantum computing and higher dimensions.
+
+---
+
+## 📫 Let's Connect
+
+**Location:** Brasília, Federal District, Brazil
+***Email:** widiney.henrique@gmail.com [cite: 3]
+***LinkedIn:** [widiney-interaminense](https://linkedin.com/in/widiney-interaminense)
+***Portfolio:** [github.com/lkolobe](https://github.com/lkolobe)
